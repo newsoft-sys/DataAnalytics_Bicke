@@ -19,9 +19,10 @@ Transformar ciclistas casuais em membros anuais através de estratégias de mark
 - Campanhas digitais focadas em lazer.
 - Incentivos para uso recorrente.
 - Promoção da assinatura anual.
+- PDF com todos os detalhes das recomendações. [conclusão](https://github.com/newsoft-sys/DataAnalytics_Bicke/blob/main/Conclus%C3%A3o.pdf)
 
 ## 📷 Visualização
-[link_para_imagem_ou_screenshot](https://github.com/newsoft-sys/DataAnalytics_Bicke/blob/main/Uso_semanal_2021a2022.png) - Grafico por uso semanal.
+[Gáfico](https://github.com/newsoft-sys/DataAnalytics_Bicke/blob/main/Uso_semanal_2021a2022.png) - Grafico por uso semanal.
 
 ## 📁 Estrutura do Projeto
 - `scripts/`: Código R utilizado
